@@ -1,41 +1,34 @@
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Ailton Alberto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AiltonAlberto&color=yellow" alt="Profile views" /> </p>
+Hi 👋, I'm Ailton Alberto
+🚀 Reformulação de Sites
+Web Designer | Front-End Developer
+🇧🇷 Brazil
 
-- 🔥 Sou Desenvolvedor Front-End 👋🏾
+Especialista em reformulação de sites
+Transformo sites antigos em páginas modernas, rápidas e responsivas
+UX • UI • Performance • SEO básico
 
-- 🔭 Estudando Angula
+I also create content and share knowledge on software development, SaaS, and tech entrepreneurship.
 
-- 💬 Ask me about **JavaScript, HTML, CSS **
+🌐 Where to find me
+[ ![](https://img.shields.io/badge/GitHub-AiltonAlberto-181717?style=for-the-badge&logo=github) ](https://github.com/AiltonAlberto) [ ![](https://img.shields.io/badge/Instagram-@ailtao_o-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/oreidosites) [ ![]
 
-- 👨‍💻 More at [dio.me](https://www.dio.me/users/ailtonalbertodev)
+✔ Reformulação completa de sites
+✔ Atualização de layout (visual moderno)
+✔ Ajustes de responsividade (mobile first)
+✔ Otimização de performance e carregamento
+✔ Melhorias em UX/UI
+✔ Correções de bugs e ajustes de código
+✔ SEO básico (estrutura e boas práticas)
 
-<br><br>
+Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
-## 🛠 &nbsp;Tech Stack
+📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonAlberto&layout=compact&theme=tokyonight)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br><br>
+🚀 Philosophy
+"Code is not just about solving problems.
+It's about building solutions that scale, last, and generate real value."
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AiltonAlberto&show_icons=true&theme=vision-friendly-dark" alt="AiltonAlberto's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonAlberto&layout=compact&theme=vision-friendly-dark" alt="s most languages"/>
-</p>
-
-<br><br>
-## Contact
-
-<p align="left" style="background:yellow">
-  
-<a href="https://www.linkedin.com/in/ailton-alberto/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-AiltonAlberto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-</p>
+⭐ If you like my work, consider starring a repository
+🤝 Always open to collaborations, partnerships, and cool ideas
